@@ -1,0 +1,5 @@
+C:\Users\Duran\documents\visual studio 2010\Projects\CakeFactory\CakeFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Duran\documents\visual studio 2010\Projects\CakeFactory\CakeFactory\bin\CakeFactory.dll
+C:\Users\Duran\documents\visual studio 2010\Projects\CakeFactory\CakeFactory\bin\CakeFactory.pdb
+C:\Users\Duran\documents\visual studio 2010\Projects\CakeFactory\CakeFactory\obj\Debug\CakeFactory.dll
+C:\Users\Duran\documents\visual studio 2010\Projects\CakeFactory\CakeFactory\obj\Debug\CakeFactory.pdb
